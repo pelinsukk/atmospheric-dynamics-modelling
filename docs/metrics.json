@@ -1,0 +1,37 @@
+{
+  "2.0": {
+    "grid_cells": [
+      20,
+      40,
+      80,
+      160
+    ],
+    "rms_error_K": [
+      0.00013406945745889057,
+      3.463195033769443e-05,
+      8.704912069385483e-06,
+      2.176213695576603e-06
+    ],
+    "last_refinement_order": 2.0000094944160467,
+    "column_budget_residual_K_m_at_80_cells": 1.8189894035458565e-12,
+    "fraction_of_initial_column_anomaly_at_6h": 0.8988910523304826
+  },
+  "20.0": {
+    "grid_cells": [
+      20,
+      40,
+      80,
+      160
+    ],
+    "rms_error_K": [
+      0.0005319158790379155,
+      0.00013341130679407186,
+      3.335271951122304e-05,
+      8.339869837909897e-06
+    ],
+    "last_refinement_order": 1.9997076280366777,
+    "column_budget_residual_K_m_at_80_cells": -1.1823431123048067e-11,
+    "fraction_of_initial_column_anomaly_at_6h": 0.34440589331813115
+  },
+  "synthetic_pressure_example_hPa": 1.05948
+}
